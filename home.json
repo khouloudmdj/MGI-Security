@@ -1,0 +1,33 @@
+{
+  "company": "Moudjadj International Guards",
+  "phone_label": "+44 7367 572324",
+  "phone_tel": "+447367572324",
+  "email": "Info@Kgi-security.co.uk",
+  "whatsapp": "https://wa.me/447367572324",
+
+  "hero_image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=2000&q=80",
+  "hero_badges": ["24/7 Availability", "Fast Response", "London & UK Coverage"],
+  "hero_title": "Trusted Security Coverage",
+  "hero_text": "Guarding, event security, CCTV monitoring, mobile patrols, key holding and VIP protection — delivered with discipline and reliability.",
+
+  "services": [
+    { "title": "Security Guards", "description": "Professional guarding for offices, retail, construction and residential sites." },
+    { "title": "Event Security", "description": "Crowd control, access management and venue protection." },
+    { "title": "CCTV Monitoring", "description": "24/7 monitoring and rapid incident response." },
+    { "title": "Mobile Patrols", "description": "Visible patrols to deter threats and ensure safety." },
+    { "title": "Key Holding", "description": "Secure key holding with fast alarm response." },
+    { "title": "VIP Protection", "description": "Discreet and professional close protection services." }
+  ],
+
+  "why_title": "Why Clients Trust Us",
+  "why_subtitle": "Built for reliability, clear reporting and rapid response — whenever you need coverage.",
+  "why_cards": [
+    { "title": "Professional Standards", "text": "Trained personnel following clear procedures and conduct." },
+    { "title": "24/7 Rapid Response", "text": "Fast action and dependable availability day and night." },
+    { "title": "Clear Communication", "text": "Direct contact, incident reporting and transparency." },
+    { "title": "London & UK Coverage", "text": "Flexible deployment across London and surrounding regions." }
+  ],
+
+  "cta_title": "Need Immediate Security Coverage?",
+  "cta_subtitle": "Contact us for a tailored security plan with fast response and professional standards."
+}

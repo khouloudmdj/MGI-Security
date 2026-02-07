@@ -1,0 +1,21 @@
+{
+  "company": "Moudjadj International Guards",
+  "phone_label": "+44 7367 572324",
+  "phone_tel": "+447367572324",
+  "email": "Info@Kgi-security.co.uk",
+  "whatsapp": "https://wa.me/447367572324",
+
+  "hero_image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=2000&q=80",
+  "hero_title": "Our Services",
+  "hero_text": "Professional security solutions tailored to your needs across London & UK.",
+  "services_subtitle": "Flexible coverage for businesses, sites and private clients.",
+
+  "services": [
+    { "title": "Security Guards", "description": "Professional guarding for offices, retail, construction and residential sites." },
+    { "title": "Event Security", "description": "Crowd control, access management and venue protection." },
+    { "title": "CCTV Monitoring", "description": "24/7 monitoring and rapid incident response." },
+    { "title": "Mobile Patrols", "description": "Visible patrols to deter threats and ensure safety." },
+    { "title": "Key Holding", "description": "Secure key holding with fast alarm response." },
+    { "title": "VIP Protection", "description": "Discreet and professional close protection services." }
+  ]
+}
